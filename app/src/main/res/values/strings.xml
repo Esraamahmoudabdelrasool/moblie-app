@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">login</string>
+    <string name="log_in">Log In</string>
+    <string name="sing_up">Sing Up</string>
+    <string name="hint">Email or User Name</string>
+    <string name="hint1">password</string>
+    <string name="FORGET_PASSWORD">Forget Password</string>
+    <string name="or">OR</string>
+    <string name="makeiteasy">MAKE IT EASY</string>
+    <string name="enter_your_name_or_email">Enter Your Name oR Email</string>
+    <string name="confirm">Confirm Password</string>
+    <string name="id1">signup</string>
+
+
+</resources>
